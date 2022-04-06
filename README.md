@@ -2,7 +2,7 @@
 Exemplo de API FastAPI em Python
 
 
-- Run on Terminal
+- Run Terminal
 - python -m venv ./venv
 - .\venv\Scripts\activate.bat
 - python.exe -m pip install --upgrade pip
