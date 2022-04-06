@@ -9,4 +9,4 @@ Exemplo de API FastAPI em Python
 - pip install fastapi
 - pip install uvicorn
 - uvicorn main:app --reload
-- Enter at http://127.0.0.1:8000/docs
+- Enter at LocalHost/docs
